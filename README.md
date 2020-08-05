@@ -1,4 +1,4 @@
-<div align="center">![Hey there, I'm Guilherme. I'm a software developer, an web development and open source enthusiast. Check out my work](https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bio.gif)
+<div align="center"><img src ="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bio.gif"/>
 </div>
 <br/>
 <p align='center'>
