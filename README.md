@@ -1,5 +1,7 @@
-<p align='center'>![Hey there, I'm Guilherme. I'm a software developer, an web development and open source enthusiast. Check out my work](https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/raw/master/bio.gif)
+<div align="center">![Hey there, I'm Guilherme. I'm a software developer, an web development and open source enthusiast. Check out my work](https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bio.gif)
+</div>
 <br/>
+<p align='center'>
 <a href="https://www.linkedin.com/in/guilherme-terriaga-109851179/"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/N0_mana"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
