@@ -32,5 +32,5 @@
 
 <img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/
-[linkedin]: https://linkedin.com/in/
+[twitter]: https://twitter.com/N0_mana
+[linkedin]: https://www.linkedin.com/in/guilherme-terriaga-109851179/
