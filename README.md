@@ -9,10 +9,8 @@
 ---
 
 <img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&hide_border=true" />
-
-<p>
+<br/>
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</p>
 
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
