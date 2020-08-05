@@ -1,8 +1,16 @@
-![Hey there, I'm Guilherme. I'm a software developer, an web development and open source enthusiast. Check out my work](https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/raw/master/bio.gif)
-
+<p align='center'>![Hey there, I'm Guilherme. I'm a software developer, an web development and open source enthusiast. Check out my work](https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/raw/master/bio.gif)
+<br/>
+<a href="https://www.linkedin.com/in/guilherme-terriaga-109851179/"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/N0_mana"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
+<a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
+</p>
 ---
 
-<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&hide_border=true" />
+<img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&hide_border=true" />
+
+<p>
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</p>
 
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
