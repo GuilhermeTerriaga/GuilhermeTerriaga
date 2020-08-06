@@ -21,7 +21,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
 </p>
 
+<a href='http://www.catb.org/hacker-emblem/'><img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
+
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<a href='http://www.catb.org/hacker-emblem/'><img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 </div>
