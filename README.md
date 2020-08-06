@@ -1,15 +1,15 @@
 <div align="center"><img src ="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bio.gif"/>
 </div>
+
 <br/>
 
 <div align="center">
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
-
 <img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
 <br/>
 
 <br/>
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
