@@ -15,12 +15,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 
-[![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</div>
-
 <p align='center'>
 <a href="https://www.linkedin.com/in/guilherme-terriaga-109851179/"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/N0_mana"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
 </p>
+
+[![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+</div>
