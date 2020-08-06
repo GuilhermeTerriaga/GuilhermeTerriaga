@@ -7,11 +7,12 @@
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
 </p>
 <div align="center">
-
 <img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
 <br/>
-
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <br/>
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
