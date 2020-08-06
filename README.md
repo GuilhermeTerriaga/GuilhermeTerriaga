@@ -23,7 +23,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<br/>
 
 <a href='http://www.catb.org/hacker-emblem/'><img height="30" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 
