@@ -6,12 +6,13 @@
 <a href="https://twitter.com/N0_mana"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
 </p>
----
+<div align="center">
 
 <img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
 <br/>
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+</div>
