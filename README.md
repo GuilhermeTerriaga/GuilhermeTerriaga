@@ -11,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
-
 <br/>
 
 <p align='center'>
@@ -24,3 +22,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
