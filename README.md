@@ -4,9 +4,7 @@
 <br/>
 
 <div align="center">
-
-[![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave)]
-
+<img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
 <br/>
 
 <br/>
