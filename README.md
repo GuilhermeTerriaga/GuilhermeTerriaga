@@ -4,7 +4,9 @@
 <br/>
 
 <div align="center">
-<img align="center" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
+
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=cobalt)
+
 <br/>
 
 <br/>
@@ -22,7 +24,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p>
 
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 
 <a href='http://www.catb.org/hacker-emblem/'><img height="30" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 
