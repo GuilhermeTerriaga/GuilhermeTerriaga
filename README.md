@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=cobalt)
+[![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave)]
 
 <br/>
 
