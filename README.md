@@ -25,6 +25,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href='http://www.catb.org/hacker-emblem/'><img height="30" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' height='30'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' widht="40"height='30'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' widht="40" height='30'></a>
 
 </div>
