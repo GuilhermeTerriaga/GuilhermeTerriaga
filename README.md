@@ -23,8 +23,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 [![Open Source Love svg](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<a href='https://archiveprogram.github.com/'><img height='40' src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' ></a>
-<a href='http://www.catb.org/hacker-emblem/'><img height='40' src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
-<a href='https://github.com/pricing'><img height='40' src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif'></a>
+<a href='http://www.catb.org/hacker-emblem/'><img height="30" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 
 </div>
