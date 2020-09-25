@@ -1,4 +1,4 @@
-<div align="center"><img src ="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bio.gif"/>
+<div align="center"><img src ="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/bioNova.gif"/>
 </div>
 
 <br/>
