@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-<img align="center"  width='550' alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
+<img align="center"  width='550' alt="Guilherme's Github Stats" src="https://github-readme-stats-eight-lyart.vercel.app/api?username=GuilhermeTerriaga&show_icons=true&theme=synthwave" />
 <br/>
 
 <br/>
