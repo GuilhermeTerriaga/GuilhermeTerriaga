@@ -17,7 +17,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/guilherme-terriaga-109851179/"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/N0_mana"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
+<a href="https://twitter.com/MarsStrikesBack"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/twitter.png?raw=true"></a>
 <a href="mailto:guilherme.terriaga@gmail.com"><img height="30" src="https://github.com/GuilhermeTerriaga/GuilhermeTerriaga/blob/master/mail.png?raw=true"></a>
 </p>
 
