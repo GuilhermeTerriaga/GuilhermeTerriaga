@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact&theme=highcontrast&hide=javascript,html,css&langs_count=7&count_private=true)](https://github.com/GuilhermeTerriaga/)
+[![Top Langs](https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact&theme=highcontrast&hide=javascript,html,css&langs_count=6&count_private=true)](https://github.com/GuilhermeTerriaga/)
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
@@ -25,4 +25,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeTerriaga.GuilhermeTerriaga)<br><br>
 <a href='http://www.catb.org/hacker-emblem/'><img height="30" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
+
 </div>
