@@ -9,7 +9,8 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact&theme=ayu-mirage&hide=html,css,Vim Script&langs_count=6&count_private=true)](https://github.com/GuilhermeTerriaga/)
+[![Top Langs](https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=GuilhermeTerriaga&layout=compact&theme=ayu-mirage&hide=Vim%20Script,html,css&langs_count=6&count_private=true)](https://github.com/GuilhermeTerriaga)](https://github.com/GuilhermeTerriaga/)
+
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
