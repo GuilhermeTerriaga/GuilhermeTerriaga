@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "gif": "node generate.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
