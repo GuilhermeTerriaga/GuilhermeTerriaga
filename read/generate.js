@@ -18,8 +18,8 @@ const config = {
       text: '$Degree = "Bachelor\'s degree in Information Systems - 100% complete"',
       color: "#E09690",
     },
-    { text: '$Job = "dev @ArthurInc"', color: "#E09690" },
-    { text: "Sudo Welcome --to-my-GitHub!", color: "#90e090" },
+    { text: '$Job = "tech lead @ArthurInc"', color: "#E09690" },
+    { text: "sudo welcome --to-my-GitHub!", color: "#90e090" },
     { text: ">", color: "#ffffff", cursorInfinite: true },
   ],
   timing: {
