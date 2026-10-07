@@ -1,33 +1,171 @@
 <!doctype html>
 <html>
   <head>
-    <link rel="stylesheet" href="./stylesheet.css" />
-  </head>
+    <meta charset="utf-8" />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: rgb(24, 24, 24);
+      }
 
+      .fakeWindow {
+        width: 650px;
+      }
+
+      .fakeMenu {
+        position: relative;
+        width: 650px;
+        height: 25px;
+        background: rgb(158, 158, 158);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      }
+      .fakeButtons {
+        position: absolute;
+        top: 7px;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        border: 1px solid #000;
+      }
+      .fakeClose {
+        left: 7px;
+        background: #ff3b47;
+        border-color: #9d252b;
+      }
+      .fakeMinimize {
+        left: 22px;
+        background: #ffc100;
+        border-color: #9d802c;
+      }
+      .fakeZoom {
+        left: 37px;
+        background: #00d742;
+        border-color: #049931;
+      }
+
+      .fakeScreen {
+        width: 650px;
+        height: 450px;
+        background: #151515;
+        padding: 20px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        overflow: hidden;
+      }
+
+      .lines {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: calc(50% - 8.5em);
+      }
+      .lines p {
+        margin: 0 0 0.25em 0;
+        font-size: 1.25em;
+        line-height: 1.4;
+        font-family: monospace;
+        white-space: pre-wrap;
+        word-break: break-word;
+        color: #fff;
+      }
+      .cursor {
+        font-weight: bold;
+      }
+    </style>
+  </head>
   <body>
-    <div class="fakeMenu">
-      <div class="fakeButtons fakeClose"></div>
-      <div class="fakeButtons fakeMinimize"></div>
-      <div class="fakeButtons fakeZoom"></div>
+    <div class="fakeWindow">
+      <div class="fakeMenu">
+        <div class="fakeButtons fakeClose"></div>
+        <div class="fakeButtons fakeMinimize"></div>
+        <div class="fakeButtons fakeZoom"></div>
+      </div>
+      <div class="fakeScreen">
+        <div class="lines" id="lines"></div>
+      </div>
     </div>
-    <div class="fakeScreen">
-      <p class="line1">$Guilherme = "hi!"<span class="cursor1">|</span></p>
-      <p class="line2">
-        $About = "Dev, Nerd and Tech Lover!"<br />
-        $About2 = "Currently studying Go, Node, Elixir and WEB stuff"<span
-          class="cursor2"
-          >|</span
-        >
-      </p>
-      <p class="line3">
-        $Degree = "Bachelor of Information Systems - 100% complete"<br />$Job =
-        "dev @ArthurInc"<span class="cursor3">|</span>
-      </p>
-      <p class="line4">
-        Sudo Welcome --to-my-GitHub!<span class="cursor4">|</span>
-      </p>
-      <p class="line5">><span class="cursor5">|</span></p>
-    </div>
-    <div class="tomaespaco"></div>
+
+    <script>
+      const CONFIG = __CONFIG__;
+
+      const linesEl = document.getElementById("lines");
+      const rows = [];
+
+      function init() {
+        let t = CONFIG.timing.initialDelay;
+
+        CONFIG.lines.forEach((line) => {
+          const p = document.createElement("p");
+          p.style.color = line.color || "#fff";
+
+          const textEl = document.createElement("span");
+          const cursorEl = document.createElement("span");
+          cursorEl.className = "cursor";
+          cursorEl.textContent = "|";
+          cursorEl.style.opacity = "0";
+
+          p.appendChild(textEl);
+          p.appendChild(cursorEl);
+          linesEl.appendChild(p);
+
+          const startTime = t;
+          const endTime =
+            startTime + line.text.length * CONFIG.timing.charDuration;
+
+          rows.push({
+            text: line.text,
+            textEl,
+            cursorEl,
+            startTime,
+            endTime,
+            cursorInfinite: !!line.cursorInfinite,
+          });
+
+          t = endTime + CONFIG.timing.lineGap;
+        });
+
+        window.TOTAL_DURATION = t + CONFIG.timing.tailDuration;
+        window.renderAt(0);
+      }
+
+      function blinkOpacity(t, anchor) {
+        const period = CONFIG.timing.cursorBlinkPeriod;
+        const phase = ((((t - anchor) % period) + period) % period) / period;
+        return phase < 0.5 ? "1" : "0";
+      }
+
+      window.renderAt = function (t) {
+        for (let i = 0; i < rows.length; i++) {
+          const row = rows[i];
+          const { startTime, endTime, text } = row;
+
+          let n;
+          if (t < startTime) n = 0;
+          else if (t >= endTime) n = text.length;
+          else n = Math.floor((t - startTime) / CONFIG.timing.charDuration);
+          row.textEl.textContent = text.slice(0, n);
+
+          let opacity = "0";
+          if (t >= startTime) {
+            const nextStart =
+              i < rows.length - 1 ? rows[i + 1].startTime : Infinity;
+            if (t < endTime) {
+              opacity = "1"; // sólido enquanto digita
+            } else if (row.cursorInfinite || t < nextStart) {
+              opacity = blinkOpacity(t, endTime); // pisca depois de terminar
+            }
+          }
+          row.cursorEl.style.opacity = opacity;
+        }
+      };
+
+      init();
+    </script>
   </body>
 </html>
