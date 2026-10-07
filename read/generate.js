@@ -31,7 +31,7 @@ const config = {
   },
   output: {
     fps: 20,
-    width: 480, // largura final do GIF (null = manter 650)
+    width: 650, // largura final do GIF (null = manter 650)
     gifPath: "saida.gif",
     framesDir: ".frames",
     keepFrames: false,
